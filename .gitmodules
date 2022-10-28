@@ -1,0 +1,3 @@
+[submodule "submodules/startbootstrap-coming-soon"]
+	path = submodules/startbootstrap-coming-soon
+	url = git@github.com:StartBootstrap/startbootstrap-coming-soon.git
